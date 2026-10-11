@@ -1,0 +1,11 @@
+# Dependencies
+client/node_modules/
+server/node_modules/
+
+# Environment / Secret Keys
+server/.env
+client/.env
+
+# Build outputs & uploads
+client/dist/
+server/uploads/
